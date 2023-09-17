@@ -1,0 +1,29 @@
+<Module>
+<ModulePrefs title="Retro Bowl"/>
+<Content type="html">
+<![CDATA[ 
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <link href="https://cdn.jsdelivr.net/gh/TheEpicCreator/l@latest/style.css" rel="stylesheet" type="text/css" />
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+</head>
+
+<body>
+  <p id="text">BIG TEXT BOX</p>
+  <input type="password" id="enter"></input>
+  <input id="newPass" placeholder="pass" hidden></input>
+  <input id="website" placeholder="website" hidden></input>
+  <input id="thingy" hidden></input>
+  <button id="confirm" hidden>confirm</button>
+  <button id="button" hidden>i</button>
+  <iframe id="iframe" src="https://example.com" style="position:fixed; left:0; bottom:0; right:0; width:100%; height:100%; border:none; margin:0; padding:0; overflow:hidden; z-index:-1;" hidden></iframe>
+  <script src="https://cdn.jsdelivr.net/gh/TheEpicCreator/l@latest/script.js"></script>
+</body>
+
+</html> ]]>
+</Content>
+</Module>
